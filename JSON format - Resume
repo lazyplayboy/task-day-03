@@ -1,0 +1,55 @@
+let myResume={
+    "basics": {
+      "name": "Arun Kumar V",
+      "email": "arunkumarbeaeror@gmail.com",
+      "phone": 8754773352,
+      "degree": "B.E",
+      "location": {
+        "address": "4/106,Kommepalli(vii),Nagamangalam (Po)",
+        "postalCode": 635113,
+        "city": "Hosur",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/arun-kumar-v-028962225/",
+          "github":"https://github.com/lazyplayboy",
+        }
+      ]
+    },
+    "work experience": [
+      {
+       "Fresher"
+      },
+    ],
+    "education": [
+      {
+        "institution": "Er Perumal Manimekalai college of Engineering",
+        "department": "Aeronautical Engineering",
+        "studyType": "fulltime",
+        "batch start year": 2015,
+        "batch end year": 2020,
+        "gpa": 6.5,
+      }
+    ],
+    "skills": [
+      {
+        "name": "C,java",
+        "level": "beginner",
+        
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Developing",
+      }
+    ]
+  }
+  console.log(myResume);
+  
